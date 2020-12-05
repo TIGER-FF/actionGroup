@@ -23,15 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24bc01e4-5c01-479d-80ed-adcdd94a0227" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/module1/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/module1/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/target/module1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/module1/target/module1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/module2/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2/target/module2-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/module2/target/module2-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +133,7 @@
       <updated>1607149085216</updated>
       <workItem from="1607149089692" duration="7852000" />
       <workItem from="1607159463872" duration="5667000" />
-      <workItem from="1607173802647" duration="2142000" />
+      <workItem from="1607173802647" duration="3392000" />
     </task>
     <servers />
   </component>
