@@ -9,7 +9,7 @@
         <relativePath>parent_pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+    <packaging>war</packaging>
     <artifactId>module2</artifactId>
     <dependencies>
         <dependency>
