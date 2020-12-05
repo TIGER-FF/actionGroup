@@ -28,6 +28,13 @@
                 <configuration>
                     <mainClass>module1.Module1Application</mainClass>
                 </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
 
             </plugin>
         </plugins>
