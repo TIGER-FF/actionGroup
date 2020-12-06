@@ -7,6 +7,7 @@
         <groupId>com.tigerff</groupId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>parent_pom.xml</relativePath>
+        <!--指出父模块中pom.xml文件所在的位置-->
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>module1</artifactId>
@@ -25,8 +26,10 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.4.RELEASE</version>
+                <!--填写你自己需要的版本号-->
                 <configuration>
                     <mainClass>module1.Module1Application</mainClass>
+                    <!--启动类所在的全包名-->
                 </configuration>
                 <executions>
                     <execution>
